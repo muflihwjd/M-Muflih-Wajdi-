@@ -1,7 +1,8 @@
 export default function Learnpage() {
     return (
-         <div className="bg-white h-screen flex gap-6 justify-center">
-         <div className="bg-purple-300 h-72 w-96 flex flex-col justify-between p-8 rounded-4xl text-blue-950">
+         <div className="bg-white h-screen flex gap-6 justify-center items-center flex-col">
+          <div className= "flex gap-4 justify-center"> 
+         <div className="bg-purple-100 h-72 w-96 flex flex-col justify-between p-8 rounded-4xl text-blue-950">
               <div>
                 <img src="/palette.svg"/>
                 <p>Design </p>
@@ -12,7 +13,7 @@ export default function Learnpage() {
              </div>
          </div>
 
-         <div className="bg-purple-300 h-72 w-96 flex flex-col justify-between p-8 rounded-4xl text-blue-950">
+         <div className="bg-orange-100 h-72 w-96 flex flex-col justify-between p-8 rounded-4xl text-blue-950">
               <div>
                 <img src="/palette.svg"/>
                 <p>Design </p>
@@ -23,7 +24,7 @@ export default function Learnpage() {
              </div>
          </div>
 
-         <div className="bg-purple-300 h-72 w-96 flex flex-col justify-between p-8 rounded-4xl text-blue-950">
+         <div className="bg-pink-100 h-72 w-96 flex flex-col justify-between p-8 rounded-4xl text-blue-950">
               <div>
                 <img src="/palette.svg"/>
                 <p>Design </p>
@@ -34,6 +35,6 @@ export default function Learnpage() {
              </div>
          </div>
          </div>
-         
+         </div>
     )
 }
