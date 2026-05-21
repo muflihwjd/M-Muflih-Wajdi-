@@ -1,4 +1,4 @@
- 
+ export default function Home() {
     return (
 
         <div className="bg-white h-screen flex gap-6 justify-center items-center flex-col">
