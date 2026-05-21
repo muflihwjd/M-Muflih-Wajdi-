@@ -14,8 +14,12 @@ export default function takspage() {
                            <p className="text-gray-500"> premuim economy </p>
 
                 </div>
-
-
+ 
+               <div className="flex justify-between">
+               <img src="tag.svg"></img>
+               <p>from $240</p>
+               <img src="plane-tilt.svg></img>
+               </div>
 
              </div>
         
