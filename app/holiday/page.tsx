@@ -6,7 +6,7 @@ export default function takspage() {
              <div className="bg-white h-110 w-80 flex p-5 rounded-4x1 flex-col gap-4"> </div>
 
                 <div className="flex justify-center">
-                    <img src="kucing melamun.png" className="h-60 w-75 items-center rounded-4xl"></img>
+                    <img src="kucing-melamun.png" className="h-60 w-75 items-center rounded-4xl"></img>
                     </div>
 
                     <div className="flex flex-col">
